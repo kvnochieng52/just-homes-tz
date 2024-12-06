@@ -9,14 +9,10 @@
               <a href="javascript:void(0);" class="fs-14 text-primary"
                 >Just Homes</a
               >. All rights reserved. |
-              <a href="https://justhomes.co.ke/privacy-policy"
-                >Privacy Policy</a
-              >
+              <a href="/privacy-policy">Privacy Policy</a>
 
               |
-              <a href="https://justhomes.co.ke/terms-of-service"
-                >Terms Of Service</a
-              >
+              <a href="/terms-of-service">Terms Of Service</a>
 
               |
               <a href="/contact-us">Contact Us</a>
