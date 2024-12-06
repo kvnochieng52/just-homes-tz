@@ -114,11 +114,9 @@
               </p>
               <p>
                 Email:
-                <a href="mailto:info@justhomes.co.ke">info@justhomes.co.ke</a>
+                <a href="mailto:info@justhomes.tz">info@justhomes.tz</a>
               </p>
-              <p>
-                Website: <a href="https://justhomes.co.ke">justhomes.co.ke</a>
-              </p>
+              <p>Website: <a href="https://justhomes.tz">justhomes.tz</a></p>
             </div>
           </div>
         </div>

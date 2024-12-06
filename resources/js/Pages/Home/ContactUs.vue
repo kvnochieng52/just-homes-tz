@@ -13,16 +13,16 @@
               <ul class="list-unstyled">
                 <li class="mb-3">
                   <strong>Email:</strong><br />
-                  <a href="mailto:info@justhomes.co.ke">info@justhomes.co.ke</a>
+                  <a href="mailto:info@justhomes.tz">info@justhomes.tz</a>
                 </li>
                 <li class="mb-3">
                   <strong>Telephone/WhatsApp:</strong> <br />
                   <a href="tel:+254757888000">+254 757 888000</a>
                 </li>
-                <li class="mb-3">
+                <!-- <li class="mb-3">
                   <strong>Location:</strong><br />
                   Oneleven Building, Ngong, Kenya
-                </li>
+                </li> -->
               </ul>
             </div>
           </div>

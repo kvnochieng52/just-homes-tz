@@ -79,16 +79,13 @@
               </p>
 
               <h4>9. Governing Law</h4>
-              <p>
-                These terms shall be governed by the laws of [insert applicable
-                jurisdiction].
-              </p>
+              <p>These terms shall be governed by the laws of Tanzania.</p>
 
               <h4>10. Contact Us</h4>
               <p>
                 For any questions or concerns regarding these terms, please
                 contact us at
-                <a href="mailto:info@justhomes.co.ke">info@justhomes.co.ke</a>.
+                <a href="mailto:info@justhomes.tz">info@justhomes.tz</a>.
               </p>
             </div>
           </div>
