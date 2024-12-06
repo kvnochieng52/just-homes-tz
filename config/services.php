@@ -51,14 +51,14 @@ return [
     ],
 
     'google' => [
-        'client_id' => '',
-        'client_secret' => '',
+        'client_id' => '647658836105-lcg9044nrbrl4kmp63g8ihnh94of90ch.apps.googleusercontent.com',
+        'client_secret' => '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',
         'redirect' => 'https://justhomes.co.ke/login/google/callback',
     ],
 
     'facebook' => [
-        'client_id' => '',
-        'client_secret' => '',
+        'client_id' => '198330469917523',
+        'client_secret' => '1fed921e8361af78f2dabe3d33883ed9',
         'redirect' => 'http://localhost:8000/login/facebook/callback',
     ],
 
